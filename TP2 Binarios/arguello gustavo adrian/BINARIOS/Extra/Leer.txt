@@ -1,1 +1,0 @@
-Este algoritmo lo estaba usando para debagear mientras cargaba los datos. Muestra los empleados Activos, las bajas logicas y los vacios.
