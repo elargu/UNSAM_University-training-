@@ -1,0 +1,23 @@
+Se pide desarrollar y entregar el siguiente programa (observar corresponde nro 21 de la guía de ejercicios de funciones); por favor formular las dudas en el Foro de Consultas.
+
+21. Construir una función que permita procesar un número desconocido de datos de productos vendidos, e ingresar por cada
+
+uno:
+
+1. identificación del producto (número entero > 0 y menor a 1000), y por cada producto ingresado:
+
+2. precio de costo, ej: 5.30
+
+3. precio de venta, ej: 9.50
+
+4. cantidad vendida, ej: 25
+
+El ciclo finaliza con identificación del producto 0 (cero).
+
+o Calcular y emitir:
+
+a) por cada producto, cuánto dinero le deja de ganancia la venta del mismo. Ej: 9.5 – 5.3 * 25 = 105;
+
+b) La función main debe emitir el total de productos procesados (no la cantidad vendida) y las ganancias
+
+que se obtuvieron por esas ventas. Ej: se procesaron 43 productos, las ganancias obtenidas fueron $2398.
